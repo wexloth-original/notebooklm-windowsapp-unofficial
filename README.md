@@ -4,7 +4,7 @@ A lightweight, cross-platform desktop wrapper for Google NotebookLM, built with 
 
 
 
-**Disclaimer: This is an unofficial community project and is not affiliated with, or endorsed by, Google. All rights to Google NotebookLM belong to Google.**
+## **Disclaimer: This is an unofficial community project and is not affiliated with, or endorsed by, Google. All rights to Google NotebookLM belong to Google.**
 
 
 
