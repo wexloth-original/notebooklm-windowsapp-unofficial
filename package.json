@@ -1,0 +1,35 @@
+{
+  "name": "notebooklm-unofficial-app",
+  "version": "1.0.0",
+  "description": "Google NotebookLM Unofficial Desktop App",
+  "author": "Developer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder -wl"
+  },
+  "build": {
+    "appId": "com.notebooklm.unofficial.app",
+    "productName": "NotebookLM (Unofficial)",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "icon.png"
+    },
+    "mac": {
+      "target": "zip",
+      "icon": "icon.png"
+    },
+    "linux": {
+      "target": "tar.gz",
+      "icon": "icon.png"
+    }
+  },
+  "devDependencies": {
+    "electron": "^42.0.1",
+    "electron-builder": "^26.8.1",
+    "electron-winstaller": "^5.4.0"
+  }
+}
