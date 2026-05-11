@@ -1,4 +1,4 @@
-#NotebookLM Desktop (Unofficial)
+# NotebookLM Desktop (Unofficial)
 A lightweight, cross-platform desktop wrapper for Google NotebookLM, built with Electron. This app brings your AI-powered research assistant out of the browser and onto your desktop with a dedicated window and native integration for Windows and Linux.
 
 **Disclaimer: This is an unofficial community project and is not affiliated with, or endorsed by, Google. All rights to NotebookLM belong to Google.**
